@@ -33,7 +33,7 @@ This repository is a collection of Python examples and explanations demonstratin
 ### 5. **Triathlon Award Program**
    - **Objective**: Create a program that assigns awards based on the user's performance in a triathlon.
    - **Key Concepts**: Using `if` statements and comparison operators to determine awards.
-   - **Markdown File**: [Triathlon-Award.md](Triathlon-Award.md)
+   - **Markdown File**: [Triathlon-Award.md](Triathlon-Award-Program.md)
 
 ### 6. **Time-Based Greeting**
    - **Objective**: Greet the user based on the time of day.
