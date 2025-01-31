@@ -110,7 +110,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 - **Gower Campbell**
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [Gower Campbell | CodeCamper | GitHub](https://github.com/GowerCampbell)
 - Email: Gower.Campbell@gmail.com
 
 ---
