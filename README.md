@@ -57,7 +57,7 @@ This repository is a collection of Python examples and explanations demonstratin
    - **Key Concepts**: Conditional logic and user interaction.
    - **Markdown File**: [award.md](award.py)
 
-###**Advanced String Manipulation**
+### **Advanced String Manipulation**
    - **Objective**: Explore advanced string manipulation techniques.
    - **Key Concepts**: String slicing, concatenation, and formatting.
    - **Markdown File**: [manipulation.md](manipulation.py)
