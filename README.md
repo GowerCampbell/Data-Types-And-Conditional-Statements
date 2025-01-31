@@ -1,3 +1,7 @@
+No problem! I’ll add the `numbers.md` file to the `README.md` and ensure it’s properly integrated. Here’s the updated version:
+
+---
+
 # Python Data Types & Conditional Statements Journal
 
 This repository is a collection of Python examples and explanations demonstrating key concepts, including **string manipulation**, **arithmetic operations**, **conditional statements**, **user interaction**, and more. Each section includes practical examples and Python scripts to showcase how these concepts can be implemented in real-world programming scenarios.
@@ -9,32 +13,54 @@ This repository is a collection of Python examples and explanations demonstratin
 ### 1. **String Manipulation**
    - **Objective**: Learn to work with strings, concatenate, slice, and manipulate text.
    - **Key Concepts**: String formatting, indexing, slicing, and built-in string methods.
-   - **Python File**: [string_manipulation.py](string_manipulation.py)
+   - **Markdown File**: [String-Manipulation.md](String-Manipulation.md)
 
 ### 2. **Arithmetic Operations**
    - **Objective**: Understand basic arithmetic operations in Python.
    - **Key Concepts**: Addition, subtraction, multiplication, division, modulus, exponentiation, and mathematical functions.
-   - **Python File**: [arithmetic_operations.py](arithmetic_operations.py)
+   - **Markdown File**: [Arithmetic-Operations.md](Arithmetic-Operations.md)
 
 ### 3. **Conditional Statements**
    - **Objective**: Learn to use `if`, `elif`, and `else` statements to make decisions based on conditions.
    - **Key Concepts**: Logical operators (`and`, `or`, `not`), comparison operators, and nested conditions.
-   - **Python File**: [conditional_statements.py](conditional_statements.py)
+   - **Markdown File**: [Conditional-Statements.md](Conditional-Statements.md)
 
 ### 4. **User Interaction**
    - **Objective**: Take user input and make decisions based on that input.
    - **Key Concepts**: `input()` function, type conversion, and conditional checks.
-   - **Python File**: [user_interaction.py](user_interaction.py)
+   - **Markdown File**: [User-Interaction.md](User-Interaction.md)
 
 ### 5. **Triathlon Award Program**
    - **Objective**: Create a program that assigns awards based on the user's performance in a triathlon.
    - **Key Concepts**: Using `if` statements and comparison operators to determine awards.
-   - **Python File**: [triathlon_award.py](triathlon_award.py)
+   - **Markdown File**: [Triathlon-Award.md](Triathlon-Award.md)
 
 ### 6. **Time-Based Greeting**
    - **Objective**: Greet the user based on the time of day.
    - **Key Concepts**: `datetime` module and conditional logic.
-   - **Python File**: [time_based_greeting.py](time_based_greeting.py)
+   - **Markdown File**: [Time-Based-Greeting.md](Time-Based-Greeting.md)
+
+## CoGrammar BootCamp Tasks
+
+### **Notes on Python Concepts**
+   - **Objective**: Provide detailed notes and explanations on Python concepts.
+   - **Key Concepts**: String manipulation, arithmetic operations, conditional statements, and more.
+   - **Markdown File**: [knotes.md](knotes.md)
+
+### **Numbers in Python**
+   - **Objective**: Explore how numbers are handled in Python, including integers, floats, and complex numbers.
+   - **Key Concepts**: Number types, type conversion, and arithmetic operations.
+   - **Markdown File**: [numbers.md](numbers.py)
+
+### **Award Assignment Logic**
+   - **Objective**: Demonstrate how to assign awards based on user input.
+   - **Key Concepts**: Conditional logic and user interaction.
+   - **Markdown File**: [award.md](award.py)
+
+###**Advanced String Manipulation**
+   - **Objective**: Explore advanced string manipulation techniques.
+   - **Key Concepts**: String slicing, concatenation, and formatting.
+   - **Markdown File**: [manipulation.md](manipulation.py)
 
 ---
 
@@ -42,20 +68,20 @@ This repository is a collection of Python examples and explanations demonstratin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/python-data-types-journal.git
+   git clone https://github.com/GowerCampbell/python-data-types-journal.git
    cd python-data-types-journal
    ```
 
-2. **Run the Python Files**:
-   - Each Python file is self-contained and can be run independently.
+2. **Explore the Markdown Files**:
+   - Each `.md` file contains detailed explanations and examples of Python concepts.
+   - Open the files in your favorite Markdown viewer or editor to read the content.
+
+3. **Run the Python Files**:
+   - If you want to run the Python scripts, refer to the corresponding `.md` files for instructions.
    - For example, to run the `triathlon_award.py` file:
      ```bash
      python triathlon_award.py
      ```
-
-3. **Explore the Code**:
-   - Open the Python files in your favorite code editor to see the implementation details.
-   - Read the comments and notes within the code to understand the logic.
 
 ---
 
@@ -110,7 +136,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 - **Gower Campbell**
-- GitHub: [Gower Campbell | CodeCamper | GitHub](https://github.com/GowerCampbell)
+- GitHub: [GowerCampbell](https://github.com/GowerCampbell)
 - Email: Gower.Campbell@gmail.com
+
+
 
 ---
