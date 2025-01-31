@@ -97,6 +97,10 @@ Python provides a variety of built-in mathematical functions through the `math` 
      ```python
      print(math.ceil(3.2))  # Output: 4
      ```
+   - `math.trunc(x)`: Cuts off the decimal part of `x`, returning the integer part.
+     ```python
+     print(math.trunc(3.7))  # Output: 3
+     ```
    - `math.pi`: Returns the value of π (pi).
      ```python
      print(math.pi)  # Output: 3.141592653589793
@@ -108,9 +112,57 @@ Python provides a variety of built-in mathematical functions through the `math` 
    print(round(3.14159, 2))  # Output: 3.14
    ```
 
+#### **Built-In Mathematical Functions**
+   - `min()`: Returns the smallest value from an iterable (e.g., list or tuple).
+     ```python
+     numbers = [6, 4, 66, 35, 1]
+     print(min(numbers))  # Output: 1
+     ```
+   - `max()`: Returns the largest value from an iterable.
+     ```python
+     numbers = [6, 4, 66, 35, 1]
+     print(max(numbers))  # Output: 66
+     ```
+   - `sum()`: Calculates the total sum of all elements in an iterable.
+     ```python
+     numbers = [6, 4, 66, 35, 1]
+     print(sum(numbers))  # Output: 112
+     ```
+
 ---
 
-### 4. **Practical Examples**
+### 4. **Data Types in Python**
+Python supports various numeric data types, including:
+
+#### **Integers**
+   - Whole numbers, positive or negative.
+   ```python
+   num = 25
+   ```
+
+#### **Floats**
+   - Decimal numbers or numbers with a fractional component.
+   ```python
+   interest_rate = 12.23
+   ```
+
+#### **Complex Numbers**
+   - Numbers with a real and imaginary part.
+   ```python
+   c = complex(4, 5)  # 4 + 5j
+   ```
+
+#### **Casting Between Numeric Data Types**
+   - You can convert between data types using functions like `int()`, `float()`, and `complex()`.
+   ```python
+   num1 = 12
+   num2 = 99.99
+   print(int(num2))  # Output: 99 (data loss occurs)
+   ```
+
+---
+
+### 5. **Practical Examples**
 
 #### **Example 1: Calculating the Area of a Circle**
    ```python
@@ -131,6 +183,14 @@ Python provides a variety of built-in mathematical functions through the `math` 
    print(f"The final amount after {time} years is: {round(amount, 2)}")
    ```
 
+#### **Example 3: Using `min()`, `max()`, and `sum()`**
+   ```python
+   numbers = [6, 4, 66, 35, 1]
+   print(f"Minimum value: {min(numbers)}")  # Output: 1
+   print(f"Maximum value: {max(numbers)}")  # Output: 66
+   print(f"Sum of values: {sum(numbers)}")  # Output: 112
+   ```
+
 ---
 
 ## Conclusion
@@ -142,6 +202,3 @@ Arithmetic operations are fundamental to programming in Python. Whether you're p
 - [Python Math Module Documentation](https://docs.python.org/3/library/math.html)
 - [Real Python: Numbers and Math](https://realpython.com/python-numbers/)
 
----
-
-This `Arithmetic-Operations.md` file provides a comprehensive guide to arithmetic operations in Python, complete with examples and practical use cases. It’s ready to be added to your GitHub repository!
