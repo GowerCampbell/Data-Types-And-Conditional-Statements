@@ -47,22 +47,22 @@ This repository is a collection of Python examples and explanations demonstratin
 ### **Notes on Python Concepts**
    - **Objective**: Provide detailed notes and explanations on Python concepts.
    - **Key Concepts**: String manipulation, arithmetic operations, conditional statements, and more.
-   - **Markdown File**: [knotes.md](knotes.md)
+   - **Markdown File**: [knotes.py](/knotes.py)
 
 ### **Numbers in Python**
    - **Objective**: Explore how numbers are handled in Python, including integers, floats, and complex numbers.
    - **Key Concepts**: Number types, type conversion, and arithmetic operations.
-   - **Markdown File**: [numbers.md](numbers.py)
+   - **Markdown File**: [numbers.md](/numbers.py)
 
 ### **Award Assignment Logic**
    - **Objective**: Demonstrate how to assign awards based on user input.
    - **Key Concepts**: Conditional logic and user interaction.
-   - **Markdown File**: [award.md](award.py)
+   - **Markdown File**: [award.py](/award.py)
 
 ### **Advanced String Manipulation**
    - **Objective**: Explore advanced string manipulation techniques.
    - **Key Concepts**: String slicing, concatenation, and formatting.
-   - **Markdown File**: [manipulation.md](manipulation.py)
+   - **Markdown File**: [manipulation.py](/manipulation.py)
 
 ---
 
